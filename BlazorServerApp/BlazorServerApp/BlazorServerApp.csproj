@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CuriousDriveRazorLibrary\CuriousDriveRazorLibrary\CuriousDriveRazorLibrary.csproj" />
+    <ProjectReference Include="..\RazorLibrary\RazorLibrary\RazorLibrary.csproj" />
   </ItemGroup>
 
 </Project>
