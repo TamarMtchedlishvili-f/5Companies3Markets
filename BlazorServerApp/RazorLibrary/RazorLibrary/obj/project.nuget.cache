@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "wu+9wz/UwFEbpek/CWC723Lk36KQz/P06mqAkiZ6tWI6QPonpWtKCzonnXxDS1sPE3SkL62VXVlw9yUMFubVmg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\tamar.mchedlishvili\\repos\\5Companies3Markets\\BlazorServerApp\\RazorLibrary\\RazorLibrary\\RazorLibrary.csproj",
+  "expectedPackageFiles": [
+    "g:\\_NugetPackages_\\microsoft.aspnetcore.authorization\\3.0.0\\microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.aspnetcore.components\\3.0.0\\microsoft.aspnetcore.components.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.aspnetcore.components.analyzers\\3.0.0\\microsoft.aspnetcore.components.analyzers.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.aspnetcore.components.forms\\3.0.0\\microsoft.aspnetcore.components.forms.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.aspnetcore.components.web\\3.0.0\\microsoft.aspnetcore.components.web.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.aspnetcore.metadata\\3.0.0\\microsoft.aspnetcore.metadata.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "g:\\_NugetPackages_\\microsoft.jsinterop\\3.0.0\\microsoft.jsinterop.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
